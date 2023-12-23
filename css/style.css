@@ -14,22 +14,26 @@
 nav {
   position: fixed;
   z-index: 999;
-  padding-left: 5%;
-  padding-right: 5%;
-  padding-top: 5px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 15px;
   padding-bottom: 5px;
   width: 100%;
-  background-color: #2f0ec6;
 }
 
 .nav-btns {
-  padding-left: 4%;
-  padding-right: 4%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 0.3%;
+  padding-top: 0.3%;
+  border-radius: 15px;
   color: #fff;
+  background-color: #FF9000;
 }
 
 .nav-btns:hover {
-  color: #fc9a06;
+  color: #FF9000;
+  background-color: #fff;
 }
 
 body {
